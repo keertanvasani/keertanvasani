@@ -108,7 +108,7 @@ Represented nations and political figures across multiple international committe
 |:-----------:|:--------|
 | 🎓 **Engineering Undergraduate** | B.Tech CSE at Amrita School of Engineering (Class of 2027) |
 | 🗳️ **Secure Systems Builder** | Delivered blockchain-backed voting & encrypted exam portals |
-| 🌐 **MUN Delegate** | Multi-committee representation across national & international MUNs |
+| 🌐 **MUN Delegate** | Multi-committee representation across national MUNs |
 | 🏅 **Multilingual Communicator** | English, Hindi & Gujarati proficiency |
 | 🏸 **Sportsperson** | Badminton & Table Tennis |
 
